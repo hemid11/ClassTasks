@@ -1,0 +1,33 @@
+*body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.box {
+    border-style: solid;
+    color: purple;
+    right: 300px;
+    margin: auto;
+    width: 400px;
+    height: 100px;
+}
+
+
+.boxes{
+    background-color: aqua;
+    height: 100vh;
+    width: 1600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.boxbox_2{position: relative;
+    border-style: solid;
+    color: purple;
+    right: 300px;
+    margin: auto;
+    width: 400px;
+    height: 100px;
+    left: -100px;
+    bottom : 90px;
+}

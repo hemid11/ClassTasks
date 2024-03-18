@@ -17,7 +17,7 @@
     top: 50px;
 }
 .link a{
-    color: black;
+    color: ;
     text-decoration: none;
 }
 .link li{
@@ -27,7 +27,7 @@
     cursor: pointer;
     position: absolute;
     left: 1550px;
-    top: 50px;
+    top: 40px;
 }
 .main-shop{
     position: absolute;

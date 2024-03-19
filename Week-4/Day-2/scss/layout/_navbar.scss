@@ -1,0 +1,19 @@
+
+nav{
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    .container{
+        width: 60%;
+        margin: 0px auto;
+        display: flex;
+        justify-content: space-between;
+   
+    }
+}
+.d-flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
